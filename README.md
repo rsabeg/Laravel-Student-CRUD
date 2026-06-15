@@ -10,7 +10,7 @@ A full-stack web application built with **Laravel 12** that demonstrates complet
 |---|---|---|
 | List page with Edit & Delete | Form with input fields | Pre-filled editable form |
 
-> 📎 See `Lab_Report.pdf` for full screenshots of every step.
+>  See `Lab_Report.pdf` for full screenshots of every step.
 
 ---
 
