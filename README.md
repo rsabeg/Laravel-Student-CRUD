@@ -4,7 +4,7 @@ A full-stack web application built with **Laravel 12** that demonstrates complet
 
 ---
 
-## 📸 Preview
+## Preview
 
 | All Students | Add Student | Edit Student |
 |---|---|---|
@@ -14,7 +14,7 @@ A full-stack web application built with **Laravel 12** that demonstrates complet
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ **Create** — Add new student records via a simple form
 - ✅ **Read** — View all students in a structured table
@@ -27,7 +27,7 @@ A full-stack web application built with **Laravel 12** that demonstrates complet
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -118,7 +118,7 @@ http://127.0.0.1:8000/students
 
 ---
 
-## 🗄️ Database Schema
+## Database Schema
 
 **Table: `students`**
 
@@ -134,7 +134,7 @@ http://127.0.0.1:8000/students
 
 ---
 
-## 🔗 CRUD Routes
+## CRUD Routes
 
 | Method | URL | Action | Description |
 |---|---|---|---|
@@ -147,7 +147,7 @@ http://127.0.0.1:8000/students
 
 ---
 
-## 📄 Lab Report
+## Lab Report
 
 Full lab report with step-by-step screenshots is available in this repository:
 📎 [`Lab_Report_Laravel_CRUD.pdf`](./Lab_Report_Laravel_CRUD.pdf)
